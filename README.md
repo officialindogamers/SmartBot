@@ -1,4 +1,6 @@
 # SmartBot
+[![Discord Bots](https://discordbots.org/api/widget/status/354712333853130752.svg)](https://discordbots.org/bot/583945825516912640)
+[[Discord](https://discordapp.com/api/guilds/465960058132627467/widget.png)]
 
 
 A multifunction discord bot that has many features, like economy, music, logging, moderation and more.
